@@ -22,4 +22,4 @@ from the understanding of tomb stone ~ person, i deduced people live in CT geome
 ### What is Life
 
 Hypothesis: Life in CT = (X ~ X′ | preserved structure across Δt + Responsive deformation)
-This explains why some people think Earth is alive or on the lineage of Life.
+This explains why some people can think Earth is alive or on the lineage of Life.

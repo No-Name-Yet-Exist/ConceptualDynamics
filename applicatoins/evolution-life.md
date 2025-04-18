@@ -15,7 +15,7 @@ I can say this too.
 Note: A unicellular organism adapts to stimuli (contrast) while maintaining its identity
 (cell_t1 ~ cell_t2 | function)
 
-　　 human adapts to social, emotional, philosophical Δt while maintaining identity
+human adapts to social, emotional, philosophical Δt while maintaining identity
 (self_t1 ~ self_t2 | selfhood)
 
 ### Classic Darwinian in CT:
