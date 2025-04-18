@@ -7,7 +7,7 @@ Let S = {x₁, x₂, ..., xₙ} be a set of deforming nodes under internal Δt�
 
 Noise-field N: a system S where no persistent contrast function exists across elements.
 
-We can define proto-existence and proto-meaning 
+We can define proto-existence and proto-meaning: 
 μ(A):=Δt→ϵlim[∃Z:C(At,At+Δt,Z) is stable] 
 
 i, lim Δt→0: D(xᵢ_t, xᵢ_{t+Δt}) ≠ 0 (i.e. change), but ∄ C(xᵢ, xⱼ, Z) ⇒ System = noise 
