@@ -46,3 +46,13 @@ Sub Principle 3: Nesting Structure
 Sub Principle 4: Rupture of continuity in CT
 
 Sub Principle 5: The geometry of CT
+
+
+
+## License Notice
+
+As of 2025-04-18, this repository has transitioned from the MIT License to **Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)**.
+
+This change reflects a shift in focus: while open exploration is encouraged, commercial use without explicit permission is now restricted.
+
+Older versions (v1.0) remain under the MIT license as previously published.
