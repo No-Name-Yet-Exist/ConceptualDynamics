@@ -55,4 +55,8 @@ As of 2025-04-18, this repository has transitioned from the MIT License to **Cre
 
 This change reflects a shift in focus: while open exploration is encouraged, commercial use without explicit permission is now restricted.
 
-Older versions (v1.0) remain under the MIT license as previously published.
+Note: This repository transitioned from the MIT License to CC BY-NC 4.0 on 2025-04-18.  
+See LICENSE for updated terms. For detailed explanation, please refer to the original article on Note.
+
+
+
